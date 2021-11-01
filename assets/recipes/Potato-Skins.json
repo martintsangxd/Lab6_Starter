@@ -1,0 +1,237 @@
+				
+{
+    "@context": "http://schema.org",
+    
+    "@type": ["Recipe"]
+    ,"headline": "Potato Skins"
+    ,"datePublished": "2015-01-25T08:27:09.000-05:00"
+    ,"dateModified": "2021-09-13T17:03:13.269-04:00"
+    ,"author": [
+    {"@type": "Person"
+    ,"name": "Elise Bauer"
+    ,"description": "Elise founded Simply Recipes in 2003 and led the site until 2019. She has an MA in Food Research from Stanford University."
+    ,"jobTitle": "Founder"
+    ,"sameAs": [
+    "https://www.instagram.com/elisebauer/",
+    "https://www.simplyrecipes.com/elise-bauer-5091824"
+    ]
+    ,"knowsAbout": ["Scratch cooking with whole ingredients"]
+    ,"alumniOf": [
+    {
+    "@type": "Organization",
+    "Name": "Stanford University: BS in Environmental Science; MA in Food Research; MBA from the Graduate School of Business "
+    }
+    ]
+    }
+    ]
+    ,"description": "Crispy, cheesy potato skins are baked, then topped with cheddar cheese, bacon, sour cream, and green onions. Make this easy appetizer for your next party!"
+    ,"image": [
+    {
+    "@type": "ImageObject",
+    "url": "https://www.simplyrecipes.com/thmb/vBxy0cd4ssCfxjeoF6x1qpeya3M=/5458x3070/smart/filters:no_upscale()/simply-recipes-potato-skins-SEO-2cbdc233e29c44a69f03ab0ca01f509d.jpg",
+    "height": 3070,
+    "width": 5458
+    },
+    {
+    "@type": "ImageObject",
+    "url": "https://www.simplyrecipes.com/thmb/lKX_DUzk_vBBw1bAOl_oIz2eQXk=/4852x3639/smart/filters:no_upscale()/simply-recipes-potato-skins-SEO-2cbdc233e29c44a69f03ab0ca01f509d.jpg",
+    "height": 3639,
+    "width": 4852
+    },
+    {
+    "@type": "ImageObject",
+    "url": "https://www.simplyrecipes.com/thmb/_HELYa81mhL4G8LWZ55-g5LO4ng=/3639x3639/smart/filters:no_upscale()/simply-recipes-potato-skins-SEO-2cbdc233e29c44a69f03ab0ca01f509d.jpg",
+    "height": 3639,
+    "width": 3639
+    }
+    ]
+    ,"publisher": {
+    "@type": "Organization",
+    "name": "Simply Recipes",
+    "url": "https://www.simplyrecipes.com",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.simplyrecipes.com/thmb/QvixEwCD02s_lnkgkVb6mHwKS7c=/1125x320/filters:no_upscale():max_bytes(150000):strip_icc()/SimplyRecipesLogoTransparent-07a297c54b2142ae9c079abb2f0fa639.png",
+    "width": 1125,
+    "height": 320
+    },
+    "brand": "Simply Recipes"
+    , "publishingPrinciples": "https://www.simplyrecipes.com/about-us-5096129#editorial-guidelines"
+    }
+    ,"name": "Potato Skins"
+    ,"aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "116"
+    }
+    ,"cookTime": "PT100M"
+    ,"keywords": "Potato, Snack, Super Bowl, American, Appetizer"
+    ,"nutrition": {
+    "@type": "NutritionInformation"
+    ,"calories": "379 kcal"
+    ,"carbohydrateContent": "45 g"
+    ,"cholesterolContent": "41 mg"
+    ,"fiberContent": "5 g"
+    ,"proteinContent": "14 g"
+    ,"saturatedFatContent": "7 g"
+    ,"sodiumContent": "398 mg"
+    ,"sugarContent": "3 g"
+    ,"fatContent": "17 g"
+    ,"servingSize": "Serves 4 to 6"
+    ,"unsaturatedFatContent": "0 g"
+    }
+    ,"prepTime": "PT10M"
+    , "recipeCategory": ["Appetizer","Snack","Potato","Snack","Super Bowl"]
+    ,"recipeCuisine": ["American"]
+    ,"recipeIngredient": [
+    "6 small to medium sized russet baking potatoes (total 3 pounds)",
+    "Extra virgin olive oil",
+    "Kosher salt",
+    "Freshly ground pepper",
+    "6 strips of bacon",
+    "4 ounces grated cheddar cheese",
+    "1/2 cup sour cream",
+    "2 green onions, thinly sliced, including the greens of the onions" ]
+    ,"recipeInstructions": [
+    {
+    "@type": "HowToStep"
+    ,"image": {
+    "@type": "ImageObject",
+    "url": "https://www.simplyrecipes.com/thmb/GM23Gu3Usv6xEbGrPxWKXV_TOc8=/5560x3707/filters:no_upscale()/simply-recipes-potato-skins-METHOD-1-6867f0d91aaa44fdb3e4fc555a21b2ec.jpg",
+    "height": 3707,
+    "width": 5560
+    }
+    ,"text": "Bake the potatoes: Scrub the potatoes clean then bake the potatoes using your favorite method, either oven or microwave. If using an oven, pierce a few times with a sharp knife or the tines of a fork, rub with olive oil and bake in a 400°F oven for about an hour until the potatoes are cooked through and give a little when pressed. If using a microwave, pierce the potato a few times with a sharp knife of the tines of a fork, rub all over with olive oil and cook on the high setting for about 5 minutes per potato. I have found that baking the potatoes in a conventional oven yields potatoes that are easier to work with (cut and scoop out), the potato seems to adhere to the skins a little better, but there is hardly a discernible difference in the final product."
+    } ,{
+    "@type": "HowToStep"
+    ,"image": {
+    "@type": "ImageObject",
+    "url": "https://www.simplyrecipes.com/thmb/3GXq9kS6vuJqHyCImAGnzP0ObPo=/4580x3053/filters:no_upscale()/simply-recipes-potato-skins-METHOD-2-bede0f7a16434728a76d704582ed5fea.jpg",
+    "height": 3053,
+    "width": 4580
+    }
+    ,"text": "Cook the bacon: While the potatoes are cooking, cook the bacon strips in a frying pan on medium low heat for 10 to 15 minutes, or until crisp. Drain on paper towels. Let cool. Crumble."
+    } ,{
+    "@type": "HowToStep"
+    ,"image": {
+    "@type": "ImageObject",
+    "url": "https://www.simplyrecipes.com/thmb/C8EujL6soPZbAt8lwKuC5MQEf5c=/5716x3811/filters:no_upscale()/simply-recipes-potato-skins-METHOD-3-f2f9fd37c35a408c826b5f08e3161050.jpg",
+    "height": 3811,
+    "width": 5716
+    }
+    ,"text": "Cut the potatoes in half and scoop out the insides: Remove the potatoes from the oven and let cool enough to handle. Cut in half horizontally. Use a spoon to carefully scoop out the insides, reserving the scooped potatoes for another use, leaving about 1/4 of an inch of potato on the skin."
+    } ,{
+    "@type": "HowToStep"
+    ,"image": {
+    "@type": "ImageObject",
+    "url": "https://www.simplyrecipes.com/thmb/WC0-RQE3OzIofQxVHcw_C31Wiyw=/5644x3763/filters:no_upscale()/simply-recipes-potato-skins-METHOD-5-192d495382874349bcb203270a5cd42f.jpg",
+    "height": 3763,
+    "width": 5644
+    }
+    ,"text": "Bake the potato skins: Increase the heat of the oven to 450°F. Brush or rub olive oil all over the potato skins, outside and in. Sprinkle with salt. Place on a baking rack in a roasting pan (don&#39;t use a cookie sheet, it will warp, use a roasting pan or broiler pan that can take the heat). Cook for 10 minutes on one side, then flip the skins over and cook for another 10 minutes. Remove from oven and let cool enough to handle."
+    } ,{
+    "@type": "HowToStep"
+    ,"image": {
+    "@type": "ImageObject",
+    "url": "https://www.simplyrecipes.com/thmb/iU_F19BQ23Y61s5revefUCTDCqo=/6240x4160/filters:no_upscale()/simply-recipes-potato-skins-METHOD-7-58c4e655d3d24a15a79aba0a5572cbe9.jpg",
+    "height": 4160,
+    "width": 6240
+    }
+    ,"text": "Add the cheese and bacon and bake again: Arrange the potato skins skin-side down on the roasting pan or rack. Sprinkle the insides with freshly ground black pepper, cheddar cheese, and crumbled bacon. Return to the oven. Broil for an additional 2 minutes, or until the cheese is bubbly. Remove from oven."
+    } ,{
+    "@type": "HowToStep"
+    ,"image": {
+    "@type": "ImageObject",
+    "url": "https://www.simplyrecipes.com/thmb/iRQn9uNlqO1HjH9_RESadRZ0qRQ=/4155x2770/filters:no_upscale()/simply-recipes-potato-skins-METHOD-8-02df2dcc6c5c4bd0b94ff650fa231a53.jpg",
+    "height": 2770,
+    "width": 4155
+    }
+    ,"text": "Top with sour cream and green onions to serve: Use tongs to place skins on a serving plate. Add a dollop of sour cream to each skin, sprinkle with green onions. Serve immediately."
+    } ]
+    ,"recipeYield": "6"
+    ,"totalTime": "PT110M"
+    ,"review": [
+    {
+    "@type": "Review",
+    "author": {
+    "@type": "Person",
+    "name": "cherialf"
+    },
+    "reviewBody": "Great recipe!! I didn't remove much of the potato (per my daughter's request...if I were making them just for myself I'd remove almost all and load them with cheese and bacon!!), and I let myself run out of olive oil so I used cooking spray. They turned out crispy and amazing even with the extra potato. The ten min at 450 on each side made all the difference from the recipes I've tried before. AND the sprinkling of salt was perfect 😁\nThank you for sharing!"
+    }
+    ,
+    {
+    "@type": "Review",
+    "author": {
+    "@type": "Person",
+    "name": "MissingLeong's"
+    },
+    "reviewBody": "They were extremely tough and dry at the recommended cooking time/temperature. I'll try to make them in the convection toaster oven next time using a much lower time and temp. Hopefully the convection air will help them crisp up without hardening the skin. \n\nOr, maybe I'll use a thinner skinned gold or white potato."
+    }
+    ,
+    {
+    "@type": "Review",
+    "author": {
+    "@type": "Person",
+    "name": "Deborah Fitzgerald"
+    },
+    "reviewBody": "I serve mine with chili. I put a big dollop of chili on my skins. You'd be surprised how very delicious it is. 😋"
+    }
+    ,
+    {
+    "@type": "Review",
+    "author": {
+    "@type": "Person",
+    "name": "Barb"
+    },
+    "reviewBody": "So very good....great!!!"
+    }
+    ,
+    {
+    "@type": "Review",
+    "author": {
+    "@type": "Person",
+    "name": "MamaBonv"
+    },
+    "reviewBody": "Easy to make. Too easy to eat! Making them for the 3rd time today."
+    }
+    ]
+    ,"mainEntityOfPage": {
+    "@type": ["WebPage"]
+    ,"@id": "https://www.simplyrecipes.com/recipes/potato_skins/"
+    ,"breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "item": {
+    "@id": "https://www.simplyrecipes.com/recipes-5090746",
+    "name": "Recipes"
+    }
+    }
+    ,
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "item": {
+    "@id": "https://www.simplyrecipes.com/snacks-and-appetizer-recipes-5090762",
+    "name": "Snacks and Appetizers"
+    }
+    }
+    ,
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "item": {
+    "@id": "https://www.simplyrecipes.com/recipes/potato_skins/",
+    "name": "Potato Skins Recipe"
+    }
+    }
+    ]
+    }
+    }
+    , "about": [
+    ]		
+    }
+    

@@ -94,8 +94,8 @@ class RecipeCard extends HTMLElement {
     
     let thumbnail = document.createElement('img');
     let thumbnailUrl = searchForKey(data,'thumbnailUrl');
-    //if (thumbnailUrl === undefined)
-      //thumbnailUrl = 
+    if (thumbnailUrl === undefined)
+      thumbnailUrl = getThumbNail(data);
     thumbnail.setAttribute('src', thumbnailUrl);
     thumbnail.setAttribute('alt', searchForKey(data, 'headline'));
     card.appendChild(thumbnail);
@@ -180,6 +180,11 @@ class RecipeCard extends HTMLElement {
   }
 }
 
+// get thumbnail when key 'thumbnailURL' DNE
+function getThumbNail(data) {
+  return searchForKey(data['image'], 'url');
+} 
+
 
 /*********************************************************************/
 /***                       Helper Functions:                       ***/
@@ -220,7 +225,17 @@ function getUrl(data) {
       if (data['@graph'][i]['@type'] == 'Article') return data['@graph'][i]['@id'];
     }
   };
-  return null;
+
+  return function(){
+    if (data.url) return data.url;
+    if (data['@graph']) {
+      for (let i = 0; i < data['@graph'].length; i++) {
+        if (data['@graph'][i]['@type'] == 'WebPage') return data['@graph'][i]['@id'];
+      }
+    };
+
+    return null;
+  };
 }
 
 /**

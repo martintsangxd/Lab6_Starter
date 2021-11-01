@@ -1,0 +1,305 @@
+				
+{
+    "@context": "http://schema.org",
+    
+    "@type": ["Recipe"]
+    ,"headline": "Homemade Pizza &amp; Pizza Dough"
+    ,"datePublished": "2007-01-07T20:22:03.000-05:00"
+    ,"dateModified": "2021-10-27T18:31:38.738-04:00"
+    ,"author": [
+    {"@type": "Person"
+    ,"name": "Elise Bauer"
+    ,"description": "Elise founded Simply Recipes in 2003 and led the site until 2019. She has an MA in Food Research from Stanford University."
+    ,"jobTitle": "Founder"
+    ,"sameAs": [
+    "https://www.instagram.com/elisebauer/",
+    "https://www.simplyrecipes.com/elise-bauer-5091824"
+    ]
+    ,"knowsAbout": ["Scratch cooking with whole ingredients"]
+    ,"alumniOf": [
+    {
+    "@type": "Organization",
+    "Name": "Stanford University: BS in Environmental Science; MA in Food Research; MBA from the Graduate School of Business "
+    }
+    ]
+    }
+    ]
+    ,"description": "This is a classic homemade pizza recipe, including a pizza dough recipe, topping suggestions, and step-by-step instructions with photos. Make perfect pizza at home!"
+    ,"image": [
+    {
+    "@type": "ImageObject",
+    "url": "https://www.simplyrecipes.com/thmb/Ce8x9FDcXu9bW8YF3KCIJ_mUrXI=/5616x3159/smart/filters:no_upscale()/Simply-Recipes-Homemade-Pizza-LEAD-2-a4f6dc01259d413fb2a6cd49532ae966.jpg",
+    "height": 3159,
+    "width": 5616
+    },
+    {
+    "@type": "ImageObject",
+    "url": "https://www.simplyrecipes.com/thmb/k9bBujjQtzKUMSI76rmokn6k6ng=/4992x3744/smart/filters:no_upscale()/Simply-Recipes-Homemade-Pizza-LEAD-2-a4f6dc01259d413fb2a6cd49532ae966.jpg",
+    "height": 3744,
+    "width": 4992
+    },
+    {
+    "@type": "ImageObject",
+    "url": "https://www.simplyrecipes.com/thmb/k192ZmobFvIx6eA1vsG1XozDR44=/3744x3744/smart/filters:no_upscale()/Simply-Recipes-Homemade-Pizza-LEAD-2-a4f6dc01259d413fb2a6cd49532ae966.jpg",
+    "height": 3744,
+    "width": 3744
+    }
+    ]
+    ,"video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://cdn.jwplayer.com/videos/dhUrNSn5-tXzwfO7V.mp4",
+    "description": "Making pizza is a great activity and meal for your entire family. In this video, learn how to make the easy, delicious, and satisfying dish. The homemade favorite requires only a few simple ingredients like active dry yeast, bread flour, tomato sauce, and mozzarella cheese. The classic Italian dish benefits from savory toppings like Italian pepperoncini, sausage, and ham. Don't forget to add the healthy vegetables like basil, black olives, and mushrooms. ",
+    "duration": "PT2M4S",
+    "name": "How to Make Delicious, Classic Homemade Pizza",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/dhUrNSn5/poster.jpg?width=720",
+    "uploadDate": "2021-03-04T15:49:27.777Z"}
+    ,"publisher": {
+    "@type": "Organization",
+    "name": "Simply Recipes",
+    "url": "https://www.simplyrecipes.com",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.simplyrecipes.com/thmb/QvixEwCD02s_lnkgkVb6mHwKS7c=/1125x320/filters:no_upscale():max_bytes(150000):strip_icc()/SimplyRecipesLogoTransparent-07a297c54b2142ae9c079abb2f0fa639.png",
+    "width": 1125,
+    "height": 320
+    },
+    "brand": "Simply Recipes"
+    , "publishingPrinciples": "https://www.simplyrecipes.com/about-us-5096129#editorial-guidelines"
+    }
+    ,"name": "Homemade Pizza &amp; Pizza Dough"
+    ,"aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "605"
+    }
+    ,"cookTime": "PT30M"
+    ,"keywords": "Italian, Pizza, Tomato Sauce, Dinner"
+    ,"nutrition": {
+    "@type": "NutritionInformation"
+    ,"calories": "322 kcal"
+    ,"carbohydrateContent": "61 g"
+    ,"cholesterolContent": "0 mg"
+    ,"fiberContent": "2 g"
+    ,"proteinContent": "10 g"
+    ,"saturatedFatContent": "1 g"
+    ,"sodiumContent": "710 mg"
+    ,"sugarContent": "1 g"
+    ,"fatContent": "4 g"
+    ,"servingSize": "Makes 2 10-12-inch pizzas"
+    ,"unsaturatedFatContent": "0 g"
+    }
+    ,"prepTime": "PT120M"
+    , "recipeCategory": ["Dinner","Italian","Pizza","Tomato Sauce"]
+    ,"recipeCuisine": ["Italian"]
+    ,"recipeIngredient": [
+    "Pizza Dough: Makes enough dough for two 10-12 inch pizzas",
+    "1 1/2 cups (355 ml) warm water (105°F-115°F)",
+    "1 package (2 1/4 teaspoons) active dry yeast",
+    "3 3/4 cups (490 g) bread flour",
+    "2 tablespoons extra virgin olive oil (omit if cooking pizza in a wood-fired pizza oven)",
+    "2 teaspoons salt",
+    "1 teaspoon sugar",
+    "Pizza Ingredients and Topping Options",
+    "Extra virgin olive oil",
+    "Cornmeal (to help slide the pizza onto the pizza stone)",
+    "Tomato sauce (smooth, or puréed)",
+    "Firm mozzarella cheese, grated",
+    "Fresh soft mozzarella cheese, separated into small clumps",
+    "Fontina cheese, grated",
+    "Parmesan cheese, grated",
+    "Feta cheese, crumbled",
+    "Mushrooms, very thinly sliced if raw, otherwise first sautéed",
+    "Bell peppers, stems and seeds removed, very thinly sliced",
+    "Italian pepperoncini, thinly sliced",
+    "Italian sausage, cooked ahead and crumbled",
+    "Sliced black olives",
+    "Chopped fresh basil",
+    "Baby arugula, tossed in a little olive oil, added as pizza comes out of the oven",
+    "Pesto",
+    "Pepperoni, thinly sliced",
+    "Onions, thinly sliced raw or caramelized",
+    "Ham, thinly sliced" ]
+    ,"recipeInstructions": [
+    {
+    "@type": "HowToSection",
+    "name": "Making the Pizza Dough",
+    "itemListElement": [
+    {
+    "@type": "HowToStep"
+    ,"image": {
+    "@type": "ImageObject",
+    "url": "https://www.simplyrecipes.com/thmb/M9Qt5aaz-uZHpnt_14J3ZSiiOIw=/4596x3064/filters:no_upscale()/Simply-Recipes-Homemade-Pizza-METHOD-03-c02cd6c4a47c4f8fbeb8d81a26f67313.jpg",
+    "height": 3064,
+    "width": 4596
+    }
+    ,"text": "Proof the yeast: Place the warm water in the large bowl of a heavy duty stand mixer. Sprinkle the yeast over the warm water and let it sit for 5 minutes until the yeast is dissolved. After 5 minutes stir if the yeast hasn&#39;t dissolved completely. The yeast should begin to foam or bloom, indicating that the yeast is still active and alive. (Note that if you are using &#34;instant yeast&#34; instead of &#34;active yeast&#34;, no proofing is required. Just add to the flour in the next step.)"
+    } ,{
+    "@type": "HowToStep"
+    ,"image": {
+    "@type": "ImageObject",
+    "url": "https://www.simplyrecipes.com/thmb/P7QdUlhJndtWUvjpoI8Yr_C0HB4=/5008x3339/filters:no_upscale()/Simply-Recipes-Homemade-Pizza-METHOD-04-afecb1b8853b4ed7a7ad27ad53d5b627.jpg",
+    "height": 3339,
+    "width": 5008
+    }
+    ,"text": "Make and knead the pizza dough: Add the flour, salt, sugar, and olive oil, and using the mixing paddle attachment, mix on low speed for a minute. Then replace the mixing paddle with the dough hook attachment. Knead the pizza dough on low to medium speed using the dough hook about 7-10 minutes. If you don&#39;t have a mixer, you can mix the ingredients together and knead them by hand. The dough should be a little sticky, or tacky to the touch. If it&#39;s too wet, sprinkle in a little more flour."
+    } ,{
+    "@type": "HowToStep"
+    ,"image": {
+    "@type": "ImageObject",
+    "url": "https://www.simplyrecipes.com/thmb/o931TBRSI7qm5_z6ExEeI4R4hdg=/5148x3432/filters:no_upscale()/Simply-Recipes-Homemade-Pizza-METHOD-01-8d03384bde444ac58a2fb77591e99fbd.jpg",
+    "height": 3432,
+    "width": 5148
+    }
+    ,"text": "Let the dough rise: Spread a thin layer of olive oil over the inside of a large bowl. Place the pizza dough in the bowl and turn it around so that it gets coated with the oil. At this point you can choose how long you want the dough to ferment and rise. A slow fermentation (24 hours in the fridge) will result in more complex flavors in the dough. A quick fermentation (1 1/2 hours in a warm place) will allow the dough to rise sufficiently to work with. Cover the dough with plastic wrap. For a quick rise, place the dough in a warm place (75°F to 85°F) for 1 1/2 hours. For a medium rise, place the dough in a regular room temperature place (your kitchen counter will do fine) for 8 hours. For a longer rise, chill the dough in the refrigerator for 24 hours (no more than 48 hours). The longer the rise (to a point) the better the flavor the crust will have."
+    } ]
+    },
+    {
+    "@type": "HowToSection",
+    "name": "Preparing the Pizzas",
+    "itemListElement": [
+    {
+    "@type": "HowToStep"
+    ,"text": "Preheat pizza stone (or pizza pan or baking sheet): Place a pizza stone on a rack in the lower third of your oven. Preheat the oven to 475°F for at least 30 minutes, preferably an hour. If you don&#39;t have a pizza stone, you can use a pizza pan or a thick baking sheet; you need something that will not warp at high temperatures."
+    } ,{
+    "@type": "HowToStep"
+    ,"image": {
+    "@type": "ImageObject",
+    "url": "https://www.simplyrecipes.com/thmb/nfm6L7rlGHFhaOrgcRyPYHQ0GCs=/4981x3321/filters:no_upscale()/Simply-Recipes-Homemade-Pizza-METHOD-05-178cab1ba4834b2d8218897f6b148db4.jpg",
+    "height": 3321,
+    "width": 4981
+    }
+    ,"text": "Divide the dough into two balls: Remove the plastic cover from the dough. Dust your hands with flour and push the dough down so it deflates a bit. Divide the dough in half. Form two round balls of dough. Place each in its own bowl, cover with plastic and let sit for 15 minutes (or up to 2 hours)."
+    } ,{
+    "@type": "HowToStep"
+    ,"text": "Prep toppings: Prepare your desired toppings. Note that you are not going to want to load up each pizza with a lot of toppings as the crust will end up not crisp that way. About a third a cup each of tomato sauce and cheese would be sufficient for one pizza. One to two mushrooms thinly sliced will cover a pizza."
+    } ,{
+    "@type": "HowToStep"
+    ,"image": {
+    "@type": "ImageObject",
+    "url": "https://www.simplyrecipes.com/thmb/PVDi5xJ2poaaNG0TUiRsSEzlyYE=/4888x3259/filters:no_upscale()/Simply-Recipes-Homemade-Pizza-METHOD-06-53b2f52cf4794d019ff87880956dd837.jpg",
+    "height": 3259,
+    "width": 4888
+    }
+    ,"text": "Flatten dough ball, and stretch out into a round: Working one ball of dough at a time, take one ball of dough and flatten it with your hands on a lightly floured work surface. Starting at the center and working outwards, use your fingertips to press the dough to 1/2-inch thick. Turn and stretch the dough until it will not stretch further. Let the dough relax 5 minutes and then continue to stretch it until it reaches the desired diameter - 10 to 12 inches. Treat the dough gently! You can also hold up the edges of the dough with your fingers, letting the dough hang and stretch, while working around the edges of the dough. If a hole appears in your dough, place the dough on a floured surface and push the dough back together to seal the hole. Use your palm to flatten the edge of the dough where it is thicker. Pinch the edges if you want to form a lip."
+    } ,{
+    "@type": "HowToStep"
+    ,"text": "Brush dough top with olive oil: Use your fingertips to press down and make dents along the surface of the dough to prevent bubbling. Brush the top of the dough with olive oil (to prevent it from getting soggy from the toppings). Let rest another 10-15 minutes. Repeat with the second ball of dough."
+    } ,{
+    "@type": "HowToStep"
+    ,"image": {
+    "@type": "ImageObject",
+    "url": "https://www.simplyrecipes.com/thmb/lxFjwm-1CzRvMXPIlSSWnGQ0CSA=/5176x3451/filters:no_upscale()/Simply-Recipes-Homemade-Pizza-METHOD-08-beae00ddf31646af8a2549d10cc5ec8c.jpg",
+    "height": 3451,
+    "width": 5176
+    }
+    ,"text": "Sprinkle pizza peel with corn meal, put flattened dough on top: Lightly sprinkle your pizza peel (or flat baking sheet) with cornmeal. (The corn meal will act as little ball bearings to help move the pizza from the pizza peel into the oven.) Transfer one prepared flattened dough to the pizza peel. If the dough has lost its shape in the transfer, lightly shape it to the desired dimensions."
+    } ,{
+    "@type": "HowToStep"
+    ,"image": {
+    "@type": "ImageObject",
+    "url": "https://www.simplyrecipes.com/thmb/qfoX_C1c9uBIMZx_dc2JqWGIM_I=/5087x3391/filters:no_upscale()/Simply-Recipes-Homemade-Pizza-METHOD-09-d9e43b77b1844cca8defe6f9e56e181d.jpg",
+    "height": 3391,
+    "width": 5087
+    }
+    ,"text": "Spread with tomato sauce and sprinkle with toppings: Spoon on the tomato sauce, sprinkle with cheese, and place your desired toppings on the pizza. Be careful not to overload the pizza with too many toppings, or your pizza will be soggy."
+    } ,{
+    "@type": "HowToStep"
+    ,"image": {
+    "@type": "ImageObject",
+    "url": "https://www.simplyrecipes.com/thmb/DKh0EBeeGOJO-T7E2t7eK1_KKS8=/3330x2220/filters:no_upscale()/Simply-Recipes-Homemade-Pizza-METHOD-10-01f70ecc84ea4a63bb5a723e5a027a09.jpg",
+    "height": 2220,
+    "width": 3330
+    }
+    ,"text": "Sprinkle cornmeal on pizza stone, slide pizza onto pizza stone in oven: Sprinkle some cornmeal on the baking stone in the oven (watch your hands, the oven is hot!). Gently shake the peel to see if the dough will easily slide, if not, gently lift up the edges of the pizza and add a bit more cornmeal. Slide the pizza off of the peel and onto the baking stone in the oven."
+    } ,{
+    "@type": "HowToStep"
+    ,"text": "Bake pizza: Bake pizza in the 475°F oven, one at a time, until the crust is browned and the cheese is golden, about 10-15 minutes. If you want, toward the end of the cooking time you can sprinkle on a little more cheese."
+    } ]
+    } ]
+    ,"recipeYield": "6"
+    ,"totalTime": "PT150M"
+    ,"review": [
+    {
+    "@type": "Review",
+    "author": {
+    "@type": "Person",
+    "name": "James E. C"
+    },
+    "reviewBody": "Terrific recipe and excellent instruction. I have one tip...I use parchment paper. Flatten your dough on parchment paper. It can be done on the peel or slide your finished work of art onto the peel with ease due to the paper."
+    }
+    ,
+    {
+    "@type": "Review",
+    "author": {
+    "@type": "Person",
+    "name": "Pelina"
+    },
+    "reviewBody": "I want to try making this, but don’t have a pizza peel nor pizza stone. I would love to see a version where the pizza is baked in a cast iron skillet!"
+    }
+    ,
+    {
+    "@type": "Review",
+    "author": {
+    "@type": "Person",
+    "name": "Nora Crane"
+    },
+    "reviewBody": "Just an afterthought - SAS Instant Yeast is phenomenal yeast. It saves time and is never fail."
+    }
+    ,
+    {
+    "@type": "Review",
+    "author": {
+    "@type": "Person",
+    "name": "Nora Crane"
+    },
+    "reviewBody": "I've used the same dough recipe for years - passed along from a pizza joint decades ago. I'm interested in this recipe, and will try it, however I live in Milwaukee Wi - cracker thin crusts it is! Thanks for this dough recipe option."
+    }
+    ,
+    {
+    "@type": "Review",
+    "author": {
+    "@type": "Person",
+    "name": "John"
+    },
+    "reviewBody": "I have made pizza dough for over 50 yrs. If you want great tasting dough don't take shortcuts. I let my dough rise once for 1 hr., punch it down then, put the oil coated dough in a large bowl that you can seal. Refrigerate for three days. When ready to make the pizza, bring it to room temperature then spread over a lightly oiled pan and bake. NOTE: the three day rise allows the gluten to do their thing."
+    }
+    ]
+    ,"mainEntityOfPage": {
+    "@type": ["WebPage"]
+    ,"@id": "https://www.simplyrecipes.com/recipes/homemade_pizza/"
+    ,"breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "item": {
+    "@id": "https://www.simplyrecipes.com/dinner-recipes-5091433",
+    "name": "Dinners"
+    }
+    }
+    ,
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "item": {
+    "@id": "https://www.simplyrecipes.com/family-dinner-recipes-5091349",
+    "name": "Family Dinners"
+    }
+    }
+    ,
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "item": {
+    "@id": "https://www.simplyrecipes.com/recipes/homemade_pizza/",
+    "name": "Homemade Pizza &amp; Pizza Dough"
+    }
+    }
+    ]
+    }
+    }
+    , "about": [
+    ]		
+    }
+    

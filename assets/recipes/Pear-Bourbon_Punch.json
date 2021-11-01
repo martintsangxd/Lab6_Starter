@@ -1,0 +1,128 @@
+				
+{
+    "@context": "http://schema.org",
+    
+    "@type": ["Recipe","NewsArticle"]
+    ,"headline": "Pear Bourbon Punch"
+    ,"datePublished": "2021-10-11T11:05:13.155-04:00"
+    ,"dateModified": "2021-10-11T11:05:13.155-04:00"
+    ,"author": [
+    {"@type": "Person"
+    ,"name": "Lori Rice"
+    ,"description": "Lori Rice is a food and beverage writer and photographer. Her work can be found in CiderCraft Magazine, King Arthur Flour’s SIFT Magazine, The Coastal Table, and Plate Magazine, as well as at CraftBeer.com."
+    ,"jobTitle": "Writer and Photographer"
+    ,"sameAs": [
+    "http://twitter.com/lori_rice",
+    "http://www.instagram.com/lori_rice",
+    "https://www.simplyrecipes.com/lori-rice-5116217"
+    ]
+    ,"knowsAbout": ["Food & Beverage Writing, Travel Writing, Beer, Wine & Spirits, Food and Farm Photography"]
+    ,"alumniOf": [
+    {
+    "@type": "Organization",
+    "Name": "University of Kentucky - MS, Nutritional Sciences"
+    },
+    {
+    "@type": "Organization",
+    "Name": "Purdue University - BS, Family & Consumer Sciences "
+    }
+    ]
+    }
+    ]
+    ,"description": "Pear Bourbon Punch has everything we love about fall: warm spices, seasonal pears, classic bourbon, and gathering with friends and family."
+    ,"image": [
+    {
+    "@type": "ImageObject",
+    "url": "https://www.simplyrecipes.com/thmb/WGJIKceb0vVIdX_93eB9WfoBXYM=/3900x2194/smart/filters:no_upscale()/Simply-Recipes-Pear-Bourbon-Punch-LEAD-02-d6939993a7ac4e1d950246348a0c4203.jpg",
+    "height": 2194,
+    "width": 3900
+    },
+    {
+    "@type": "ImageObject",
+    "url": "https://www.simplyrecipes.com/thmb/zFgnc7ErTXgCFytDEU6S2k1HKZM=/3467x2600/smart/filters:no_upscale()/Simply-Recipes-Pear-Bourbon-Punch-LEAD-02-d6939993a7ac4e1d950246348a0c4203.jpg",
+    "height": 2600,
+    "width": 3467
+    },
+    {
+    "@type": "ImageObject",
+    "url": "https://www.simplyrecipes.com/thmb/wEPWy4r-xShsgSVBEso7qTR6uUU=/2600x2600/smart/filters:no_upscale()/Simply-Recipes-Pear-Bourbon-Punch-LEAD-02-d6939993a7ac4e1d950246348a0c4203.jpg",
+    "height": 2600,
+    "width": 2600
+    }
+    ]
+    ,"publisher": {
+    "@type": "Organization",
+    "name": "Simply Recipes",
+    "url": "https://www.simplyrecipes.com",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.simplyrecipes.com/thmb/QvixEwCD02s_lnkgkVb6mHwKS7c=/1125x320/filters:no_upscale():max_bytes(150000):strip_icc()/SimplyRecipesLogoTransparent-07a297c54b2142ae9c079abb2f0fa639.png",
+    "width": 1125,
+    "height": 320
+    },
+    "brand": "Simply Recipes"
+    , "publishingPrinciples": "https://www.simplyrecipes.com/about-us-5096129#editorial-guidelines"
+    }
+    ,"name": "Pear Bourbon Punch"
+    ,"keywords": "bourbon, pear juice, pear, St. George Spirits Spiced Pear Liqueur, liqueur, pear punch, fall punch recipe, fall drink recipes, pear and bourbon cocktail, pear and bourbon punch, fall party pitcher drinks"
+    ,"prepTime": "PT10M"
+    , "recipeCategory": ["Beverage","Cocktail"]
+    ,"recipeCuisine": ["American"]
+    ,"recipeIngredient": [
+    "12 ounces bourbon",
+    "12 ounces 100 percent pear juice, chilled",
+    "8 ounces St. George Spirits Spiced Pear Liqueur",
+    "16 ounces club soda, chilled",
+    "Sliced pears for garnish" ]
+    ,"recipeInstructions": [
+    {
+    "@type": "HowToStep"
+    ,"text": "Prepare the punch mix: Pour the bourbon, pear juice, and pear liqueur in a jar or pitcher that holds at least 32 ounces. Stir it to combine or if you used a lidded jar, secure the lid and shake well."
+    } ,{
+    "@type": "HowToStep"
+    ,"text": "Serve the cocktail: Pour 4 ounces of punch mix into a tumbler. Top with 2 ounces of club soda. You can add more or less, depending on your preference. An alternative: Combine the bourbon, pear juice, pear liqueur, and club soda together in a drink dispenser or pitcher that holds at least 50 ounces."
+    } ,{
+    "@type": "HowToStep"
+    ,"text": "Garnish the punch: Garnish each tumbler with thinly sliced pear before serving. I don&#39;t add ice to this drink because it&#39;s punch and it&#39;s delicious at room temperature, but if it&#39;s hot where you are or you prefer ice feel free to set an ice bucket out so your guests can add it to their drinks if it&#39;s what they prefer."
+    } ]
+    ,"recipeYield": "8"
+    ,"totalTime": "PT10M"
+    ,"mainEntityOfPage": {
+    "@type": ["WebPage"]
+    ,"@id": "https://www.simplyrecipes.com/pear-bourbon-punch-recipe-5204870"
+    ,"breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "item": {
+    "@id": "https://www.simplyrecipes.com/drink-recipes-5091323",
+    "name": "Drinks"
+    }
+    }
+    ,
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "item": {
+    "@id": "https://www.simplyrecipes.com/cocktail-recipes-5091324",
+    "name": "Cocktails"
+    }
+    }
+    ,
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "item": {
+    "@id": "https://www.simplyrecipes.com/pear-bourbon-punch-recipe-5204870",
+    "name": "Pear Bourbon Punch"
+    }
+    }
+    ]
+    }
+    }
+    , "about": [
+    ]		
+    }
+    

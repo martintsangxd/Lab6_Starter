@@ -5,13 +5,20 @@
 const recipes = [
   'https://introweb.tech/assets/json/ghostCookies.json',
   'https://introweb.tech/assets/json/birthdayCake.json',
-  'https://introweb.tech/assets/json/chocolateChip.json'
+  'https://introweb.tech/assets/json/chocolateChip.json',
+  'assets/recipes/Homemade-Pizza.json',
+  'assets/recipes/Potato-Skins.json',
+  'assets/recipes/Pear-Bourbon_Punch.json'
 ];
 
 // Once all of the recipes that were specified above have been fetched, their
 // data will be added to this object below. You may use whatever you like for the
 // keys as long as it's unique, one suggestion might but the URL itself
 const recipeData = {}
+
+let compactMode = true;
+
+const cards = [];
 
 window.addEventListener('DOMContentLoaded', init);
 
@@ -66,13 +73,16 @@ function createRecipeCards() {
   // files with the recipeData Object above. Make sure you only display the 
   // three recipes we give you, you'll use the bindShowMore() function to
   // show any others you've added when the user clicks on the "Show more" button.
-  
+
   // Part 1 Expose - TODO
   let main = document.querySelectorAll('main')[0];
   for (let ind = 0; ind < recipes.length; ind++) {
     let card = document.createElement('recipe-card');
     card.data = recipeData[recipes[ind]];
-    main.appendChild(card);
+    if (compactMode && ind < 3) {
+      main.appendChild(card);
+    }
+    cards.push(card);
   }
 }
 
@@ -85,4 +95,22 @@ function bindShowMore() {
   // in the recipeData object where you stored them/
 
   // Part 2 Explore - TODO
+  let main = document.querySelectorAll('main')[0];
+  let showMoreBtn = document.querySelectorAll('button')[0];
+  showMoreBtn.addEventListener('click', function(){
+    if(compactMode) {
+      showMoreBtn.textContent = 'Show less';
+      compactMode = false;
+      console.log(main.childNodes);
+    }else {
+      showMoreBtn.textContent = 'Show more';
+      compactMode = true;
+    }
+    for (let i = 3; i < 6; i++) {
+      if(compactMode)
+        main.removeChild(cards[i])
+      else
+        main.appendChild(cards[i])
+    }
+  })
 }
