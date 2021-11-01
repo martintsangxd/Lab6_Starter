@@ -1,8 +1,10 @@
 class RecipeCard extends HTMLElement {
   constructor() {
     // Part 1 Expose - TODO
+    super();
 
     // You'll want to attach the shadow DOM here
+    this.shadow = this.attachShadow({mode: 'open'});
   }
 
   set data(data) {
@@ -88,6 +90,79 @@ class RecipeCard extends HTMLElement {
     // Here's the root element that you'll want to attach all of your other elements to
     const card = document.createElement('article');
 
+    let recipe = getRecipeObject(data);
+    
+    let thumbnail = document.createElement('img');
+    let thumbnailUrl = searchForKey(data,'thumbnailUrl');
+    //if (thumbnailUrl === undefined)
+      //thumbnailUrl = 
+    thumbnail.setAttribute('src', thumbnailUrl);
+    thumbnail.setAttribute('alt', searchForKey(data, 'headline'));
+    card.appendChild(thumbnail);
+    
+    // Title
+    let url = getUrl(data);
+    let title = document.createElement('p');
+    let link = document.createElement('a');
+    link.setAttribute('href', url);
+    link.appendChild(document.createTextNode(searchForKey(data, 'headline')));
+    title.appendChild(link);
+    title.classList.add('title');
+    card.appendChild(title);
+
+    let org = document.createElement('p');
+    org.appendChild(document.createTextNode(getOrganization(data)));
+    org.classList.add('organization');
+    card.appendChild(org);
+    
+    
+
+
+    // Rating Section
+    let ratingValue = searchForKey(data,'ratingValue');
+    if (ratingValue === undefined) {
+      RTCCertificate
+    }
+    let rating = document.createElement('div');
+    rating.classList.add('rating');
+    if(ratingValue === undefined) {
+      rating.appendChild(document.createTextNode('No Reviews'));
+    }else {
+      // Average Review out of 5
+      let ratingText = document.createElement('span');
+      ratingText.appendChild(document.createTextNode(ratingValue));
+      rating.appendChild(ratingText)
+
+      
+      // Rating stars image
+      let imageView = document.createElement('img');
+      let roundedValue = Math.round(ratingValue);
+      imageView.setAttribute('alt', roundedValue+' stars');
+      let img = '/assets/images/icons/' + roundedValue + '-star.svg';
+      imageView.setAttribute('src', img);
+      rating.appendChild(imageView);
+      
+
+      // Rating Count
+      let ratingCount = document.createElement('span');
+      ratingCount.appendChild(document.createTextNode('('+searchForKey(data,'ratingCount')+')'));
+      rating.appendChild(ratingCount);
+    }
+    card.appendChild(rating);
+
+  
+    // time
+    let time = document.createElement('time');
+    time.appendChild(document.createTextNode(convertTime(searchForKey(data, 'totalTime'))));
+    card.appendChild(time);
+    
+    // ingredients
+    let ingredientList = document.createElement('p');
+    let list = createIngredientList(searchForKey(data,'recipeIngredient'));
+    ingredientList.innerText = list;
+    ingredientList.classList.add('ingredients');
+    card.appendChild(ingredientList);
+
     // Some functions that will be helpful here:
     //    document.createElement()
     //    document.querySelector()
@@ -99,7 +174,9 @@ class RecipeCard extends HTMLElement {
     // Make sure to attach your root element and styles to the shadow DOM you
     // created in the constructor()
 
-    // Part 1 Expose - TODO
+    // Part 1 Expose - TODO    
+    this.shadow.appendChild(card);
+    this.shadow.appendChild(styleElem);
   }
 }
 
@@ -158,6 +235,18 @@ function getOrganization(data) {
     for (let i = 0; i < data['@graph'].length; i++) {
       if (data['@graph'][i]['@type'] == 'Organization') {
         return data['@graph'][i].name;
+      }
+    }
+  };
+  return null;
+}
+
+function getRecipeObject(data) {
+  if (data['@graph']) {
+    for (let i = 0; i < data['@graph'].length; i++) {
+      if (data['@graph'][i]['@type'] == 'Recipe') {
+        
+        return data['@graph'][i];
       }
     }
   };
